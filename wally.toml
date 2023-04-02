@@ -1,0 +1,8 @@
+[package]
+name = "kike/rojotemplate"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
+signal    = "sleitnick/signal@1.3.0"
